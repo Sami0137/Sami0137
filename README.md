@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiul Haque Azmi</h1>
 <h3 align="center">🚀 A passionate Software and Machine Learning Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sami0137&label=Profile%20views&color=brightgreen&style=flat-square" alt="sami0137" />
-</p>
 
 <p align="center">
   <a href="https://github.com/sami0137">
