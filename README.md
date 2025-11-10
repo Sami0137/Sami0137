@@ -15,9 +15,6 @@
   <a href="https://linkedin.com/in/samiul-haque-530869311" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="border-radius: 10px;" />
   </a>
-  <a href="https://instagram.com/sami.azmi952" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;" />
-  </a>
   <a href="https://leetcode.com/samiul_haque" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="border-radius: 10px;" />
   </a>
